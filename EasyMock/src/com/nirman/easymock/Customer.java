@@ -24,5 +24,9 @@ public class Customer {
 	public void setRetailer(Retailer retailer) {
 		this.retailer = retailer;
 	}
+	
+	
+	//This is a test
+	// This is a big test
 
 }
